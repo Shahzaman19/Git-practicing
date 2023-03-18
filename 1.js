@@ -5,4 +5,5 @@ console.log("zazaz");
 let x = number.join('"-"')
 
 console.log(x);
+console.log("sasassa");
 
